@@ -52,6 +52,12 @@
 			<version>2.6.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.huobi</groupId>
+			<artifactId>huobi-crypto</artifactId>
+			<version>1.27</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
