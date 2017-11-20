@@ -55,7 +55,7 @@
 		<dependency>
 			<groupId>com.huobi</groupId>
 			<artifactId>huobi-crypto</artifactId>
-			<version>1.27</version>
+			<version>1.29</version>
 		</dependency>
 
 	</dependencies>
